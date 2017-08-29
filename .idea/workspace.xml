@@ -2,85 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f1fb5be-4b65-4469-8fc3-bf1c3edd94e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/final/images/icons/smiley-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step1/images/icons/smiley-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step2/images/icons/smiley-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step3/images/icons/smiley-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step4/images/icons/smiley-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step5/images/icons/smiley-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/work/images/icons/smiley-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/clear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cloudy-scattered-showers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cloudy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cloudy_s_sunny.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons/icon-128x128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons/icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons/icon-152x152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons/icon-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons/icon-256x256.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons/icon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partly-cloudy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/rain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/scattered-showers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sleet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/snow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/thunderstorm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/wind.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/final/images/smiley.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/final/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/final/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/final/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/final/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/final/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step1/images/smiley.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step1/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step1/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step1/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step1/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step2/images/smiley.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step2/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step2/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step2/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step2/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step3/images/smiley.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step3/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step3/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step3/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step3/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step4/images/smiley.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step4/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step4/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step4/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step4/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step5/images/smiley.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step5/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step5/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step5/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/step5/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/work/images/smiley.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/work/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/work/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/work/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/work/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugging-service-workers-master/work/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ic_add_white_24px.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ic_refresh_white_24px.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scripts/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/styles/inline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/your-first-pwapp-master/work/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/your-first-pwapp-master/work/service-worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/icons/icons-hinted.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/icons/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/icons/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/icons/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/icons/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/touch/Airhorner_128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/touch/Airhorner_144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/touch/Airhorner_152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/touch/Airhorner_192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/MP3/Air Horn Sound Effect 02 mono.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/MP3/Air Horn Sound Effect 02.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/MP3/Air Horn Sound Effect Long mono.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/MP3/Air Horn Sound Effect Long.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/MP3/Air Horn Sound Effect Short mono.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/MP3/Air Horn Sound Effect Short.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/MP3/Air Horn Sound Effect mono.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/MP3/Air Horn Sound Effect.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/WAV/Air Horn Sound Effect 02 mono.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/WAV/Air Horn Sound Effect 02.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/WAV/Air Horn Sound Effect Long mono.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/WAV/Air Horn Sound Effect Long.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/WAV/Air Horn Sound Effect Short mono.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/WAV/Air Horn Sound Effect Short.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/WAV/Air Horn Sound Effect mono.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/WAV/Air Horn Sound Effect.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sounds/airhorn.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/cache-polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/humans.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/airhorn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/images/icons/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/manifest.webapp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/scripts/main.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/styles/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/app/sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/First offline app - airhorn/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,28 +64,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/scripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="189" column="7" lean-forward="false" selection-start-line="189" selection-start-column="7" selection-end-line="189" selection-end-column="7" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/manifest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="service-worker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/service-worker.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -170,14 +114,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="service-worker.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="service-worker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/debugging-service-workers-master/work/service-worker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="63" column="3" lean-forward="false" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+            <state relative-caret-position="25">
+              <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sw.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/First offline app - airhorn/app/sw.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First offline app - airhorn/app/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First offline app - airhorn/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -209,6 +183,8 @@
         <option value="$PROJECT_DIR$/your-first-pwapp-master/work/index.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/debugging-service-workers-master/work/service-worker.js" />
+        <option value="$PROJECT_DIR$/First offline app - airhorn/app/index.html" />
+        <option value="$PROJECT_DIR$/First offline app - airhorn/app/sw.js" />
       </list>
     </option>
   </component>
@@ -219,10 +195,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2103" />
-    <option name="y" value="153" />
+    <option name="x" value="2558" />
+    <option name="y" value="22" />
     <option name="width" value="1279" />
-    <option name="height" value="679" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -261,7 +237,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="debugging-service-workers-master" />
+              <option name="myItemId" value="First offline app - airhorn" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -275,11 +251,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="debugging-service-workers-master" />
+              <option name="myItemId" value="First offline app - airhorn" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,6 +275,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\josh\google-code-labs\First offline app - airhorn" />
       <recent name="C:\josh\google-code-labs" />
       <recent name="C:\josh\google-code-labs\public" />
     </key>
@@ -414,12 +391,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503675718935</updated>
-      <workItem from="1503675720319" duration="11251000" />
+      <workItem from="1503675720319" duration="14756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11251000" />
+    <option name="totallyTimeSpent" value="14756000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -431,7 +408,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2103" y="153" width="1279" height="679" extended-state="1" />
+    <frame x="2558" y="22" width="1279" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25302175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -441,7 +418,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29038462" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2260479" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -476,7 +453,7 @@
         <state relative-caret-position="206">
           <caret line="189" column="7" lean-forward="false" selection-start-line="189" selection-start-column="7" selection-end-line="189" selection-end-column="7" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -547,11 +524,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/debugging-service-workers-master/work/service-worker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="63" column="3" lean-forward="false" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+        <state relative-caret-position="25">
+          <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First offline app - airhorn/app/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First offline app - airhorn/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First offline app - airhorn/app/cache-polyfill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First offline app - airhorn/app/sw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
